@@ -1,2 +1,3 @@
 # Projet_Industriel_3_Financial_Modeles_Machine_Learning_Q4_2021
-Etude de prédiction de produits financiers TECH
+
+Plus de 40 milliards de dollars de crypto-monnaies sont échangés chaque jour. Ils sont parmi les actifs les plus populaires pour la spéculation et l'investissement, mais se sont avérés extrêmement volatils. Les prix fluctuant rapidement ont fait des millionnaires quelques chanceux et ont causé des pertes écrasantes à d'autres. Certains de ces mouvements de prix auraient-ils pu être prédits à l'avance ? -> Etude de la précisions de prédiction de ces produits financiers via de multiples méthodologies distinctes, afin de voir si une ou plusieurs méthodologies d'études algorithmiques permettent une approche jugée raisonnablement meilleur que l'aléatoire
